@@ -42,7 +42,4 @@ public class alarmInfo
     private String name;
     private String password;
 
-
-
-
 }
